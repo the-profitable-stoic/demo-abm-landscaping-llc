@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "ABM Landscaping LLC",
+    "phone": "16156026954",
+    "category": "landscaping",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "landscaping-trust-navy",
+      "categoryGroup": "landscaping",
+      "name": "Trust Navy",
+      "recipeFile": "landscaping/trust-navy.astro",
+      "colors": {
+        "primary": "#16A34A",
+        "primaryDark": "#14532D",
+        "primaryLight": "#c5e8d2",
+        "secondary": "#138b3f",
+        "accent": "#65A30D",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#16A34A",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Lato",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "landscaping/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Landscape Experts",
+      "heroSubline": "Creating beautiful and functional outdoor spaces for homes and businesses across Middle Tennessee. Call today for a free consultation!",
+      "aboutTitle": "Your Trusted Nashville Landscaping Partner",
+      "aboutText": [
+        "ABM Landscaping LLC started with a simple goal: to bring exceptional landscaping services to the Nashville community. Founded by lifelong Tennessean, [Founder Name], we understand the unique challenges and opportunities of our local environment.",
+        "Our approach is rooted in collaboration and communication. We listen carefully to your vision, assess your property's specific needs, and develop a customized plan that exceeds your expectations. We value quality workmanship and lasting relationships with our clients.",
+        "We're proud to be a part of the Nashville community and are committed to giving back. We regularly volunteer our services for local parks and community gardens, ensuring our city remains beautiful for everyone."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Nashville's climate, soil, and native plants."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored landscaping plans to match your unique style and property."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "Experienced team delivering exceptional results with attention to detail."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt and professional communication throughout the entire project."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space",
+      "ctaSubline": "Get a free quote for your landscaping project today!"
+    },
+    "services": [
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Custom landscape designs that enhance your property's beauty and value.",
+        "description": "Our landscape design service is tailored to the unique characteristics of your property and your personal preferences. We start with an in-depth consultation to understand your vision, budget, and lifestyle. Then, we conduct a thorough site analysis, considering factors like soil type, sunlight exposure, drainage, and existing vegetation. We factor in Nashville's tendency for intense summer heat and occasional winter freezes, recommending hardy species appropriate for the climate. The limestone bedrock common in the area also informs our decisions about drainage and planting depths. \n\nWe create detailed design plans that include plant selections, hardscape features (patios, walkways, retaining walls), irrigation systems, and lighting. Whether you're looking for a tranquil retreat, a vibrant entertainment space, or a sustainable garden, we'll bring your dreams to life. We present you with 3D renderings and detailed cost estimates, ensuring complete transparency throughout the process. Our designs consider the architectural style of your home, whether it’s a classic East Nashville bungalow or a modern home in The Gulch.",
+        "process": [
+          "Step 1: Initial Consultation to discuss your vision and requirements.",
+          "Step 2: Site Analysis to assess the property's characteristics.",
+          "Step 3: Design Development with detailed plans and 3D renderings.",
+          "Step 4: Implementation and Installation of the design."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Sustainable and eco-friendly designs",
+          "Personalized outdoor space"
+        ],
+        "faq": [
+          {
+            "question": "How much does landscape design cost?",
+            "answer": "The cost depends on the size and complexity of the project. We provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "How long does the design process take?",
+            "answer": "Typically, the design process takes 2-4 weeks, depending on the scope of the project."
+          },
+          {
+            "question": "Do you offer design-only services?",
+            "answer": "Yes, we offer design-only services if you prefer to handle the installation yourself."
+          }
+        ]
+      },
+      {
+        "slug": "lawn-care",
+        "name": "Lawn Care",
+        "shortDescription": "Professional lawn care services to keep your lawn healthy and vibrant year-round.",
+        "description": "Our comprehensive lawn care service is designed to keep your lawn looking its best throughout the year. We offer a range of services, including mowing, fertilization, weed control, aeration, and overseeding. We understand the specific needs of Nashville lawns, from dealing with the challenges of clay soil to combating common lawn diseases. Our fertilization programs are tailored to promote healthy growth and lush green color, taking into account the region's seasonal variations. \n\nWe use high-quality products and equipment to ensure exceptional results. Our team is trained to identify and address any lawn issues, such as insect infestations or fungal diseases. We also offer seasonal lawn care services, such as leaf removal in the fall and winterizing your lawn to protect it from the cold. We take into account Nashville's tendency for sudden temperature changes and adjust our approach accordingly. Whether you have a small urban lawn in 12South or a sprawling suburban lawn in Green Hills, we can help you achieve a beautiful and healthy lawn.",
+        "process": [
+          "Step 1: Lawn Assessment to evaluate the health and condition of your lawn.",
+          "Step 2: Mowing and Trimming to maintain a neat and tidy appearance.",
+          "Step 3: Fertilization and Weed Control to promote healthy growth.",
+          "Step 4: Aeration and Overseeding to improve soil quality and density."
+        ],
+        "benefits": [
+          "Healthy and vibrant lawn",
+          "Weed-free and pest-free",
+          "Improved curb appeal",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I mow my lawn?",
+            "answer": "We recommend mowing your lawn once a week during the growing season to maintain a healthy height and appearance."
+          },
+          {
+            "question": "What type of fertilizer do you use?",
+            "answer": "We use slow-release fertilizers that provide essential nutrients to your lawn over an extended period."
+          },
+          {
+            "question": "How do I know if my lawn needs aeration?",
+            "answer": "If your lawn is compacted or has excessive thatch, it may benefit from aeration."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Enhance your outdoor living space with custom patios, walkways, and retaining walls.",
+        "description": "Our hardscaping service transforms your outdoor space into a functional and beautiful extension of your home. We specialize in designing and installing patios, walkways, retaining walls, fire pits, and outdoor kitchens. We work with a variety of materials, including natural stone, pavers, brick, and concrete, to create custom designs that complement your home's architecture and your personal style. We understand the importance of proper drainage in Nashville, where heavy rainfalls are common, and ensure that our hardscaping projects are designed to prevent water damage. The limestone bedrock prevalent in the area also influences our construction techniques for retaining walls and foundations. \n\nWe handle every aspect of the project, from design and excavation to installation and finishing. Our team is skilled in creating durable and aesthetically pleasing hardscape features that will enhance your outdoor living experience for years to come. Whether you're looking to create an inviting outdoor entertaining area or a functional retaining wall to prevent erosion, we can help you achieve your goals.",
+        "process": [
+          "Step 1: Design Consultation to discuss your hardscaping needs and preferences.",
+          "Step 2: Site Preparation including excavation and grading.",
+          "Step 3: Installation of patios, walkways, or retaining walls.",
+          "Step 4: Finishing touches to ensure a polished and professional look."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Improved functionality and aesthetics",
+          "Durable and long-lasting structures"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for a patio?",
+            "answer": "The best material depends on your budget, style, and desired durability. Natural stone and pavers are popular choices."
+          },
+          {
+            "question": "How long does it take to install a patio?",
+            "answer": "The installation time depends on the size and complexity of the project. A typical patio installation takes 1-2 weeks."
+          },
+          {
+            "question": "Do I need a permit for a retaining wall?",
+            "answer": "Permit requirements vary depending on the height and location of the retaining wall. We can help you determine if a permit is required."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-lighting",
+        "name": "Outdoor Lighting",
+        "shortDescription": "Illuminate your landscape with energy-efficient and aesthetically pleasing outdoor lighting solutions.",
+        "description": "Our outdoor lighting service enhances the beauty and security of your property with strategically placed lighting fixtures. We offer a wide range of lighting options, including path lighting, landscape lighting, accent lighting, and security lighting. We use energy-efficient LED fixtures that provide long-lasting illumination while minimizing energy consumption. We understand the importance of highlighting the architectural features of your home and creating a warm and inviting ambiance. Our team is skilled in designing custom lighting plans that meet your specific needs and preferences.\n\nWe consider the unique characteristics of Nashville's neighborhoods when designing outdoor lighting schemes. Whether you're looking to illuminate a historic home in East Nashville or a modern home in The Gulch, we can create a lighting plan that complements the style of your property. We also take into account the local wildlife and minimize light pollution to protect their habitats. Our installation process is meticulous and ensures that all wiring is safely and properly installed. We also offer maintenance services to keep your outdoor lighting system in optimal condition.",
+        "process": [
+          "Step 1: Lighting Design Consultation to discuss your lighting goals.",
+          "Step 2: Fixture Selection to choose the right lights for your landscape.",
+          "Step 3: Installation of the lighting system.",
+          "Step 4: System Testing and Adjustments to ensure optimal performance."
+        ],
+        "benefits": [
+          "Enhanced security",
+          "Improved aesthetics",
+          "Energy efficiency",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is energy-efficient, long-lasting, and provides excellent illumination."
+          },
+          {
+            "question": "How much does outdoor lighting cost?",
+            "answer": "The cost depends on the number of fixtures and the complexity of the installation. We provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "Do you offer a warranty on your lighting systems?",
+            "answer": "Yes, we offer a warranty on all of our lighting systems and installations."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems",
+        "shortDescription": "Efficient irrigation systems to keep your lawn and garden healthy and hydrated.",
+        "description": "Our irrigation system service provides efficient and reliable watering solutions for your lawn and garden. We design and install custom irrigation systems that are tailored to the specific needs of your property. We offer a variety of irrigation options, including sprinkler systems, drip irrigation systems, and smart irrigation controllers. We understand the importance of conserving water in Nashville, especially during the hot summer months, and design our systems to minimize water waste. Our smart irrigation controllers use weather data to automatically adjust watering schedules, ensuring that your lawn and garden receive the right amount of water at the right time.\n\nWe consider the soil type and plant varieties when designing our irrigation systems. The clay soil common in Nashville requires careful consideration to prevent overwatering and runoff. We also take into account the local water restrictions and design our systems to comply with all regulations. Our installation process is meticulous and ensures that all pipes and sprinkler heads are properly installed. We also offer maintenance services to keep your irrigation system in optimal condition.",
+        "process": [
+          "Step 1: Irrigation System Design to create a custom plan.",
+          "Step 2: Installation of the irrigation system.",
+          "Step 3: System Testing and Adjustments to ensure proper coverage.",
+          "Step 4: Programming the irrigation controller for optimal watering schedules."
+        ],
+        "benefits": [
+          "Water conservation",
+          "Healthy lawn and garden",
+          "Reduced maintenance",
+          "Automated watering schedules"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a smart irrigation controller?",
+            "answer": "Smart controllers use weather data to automatically adjust watering schedules, saving water and money."
+          },
+          {
+            "question": "How much does an irrigation system cost?",
+            "answer": "The cost depends on the size of your property and the complexity of the system. We provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "Do you offer maintenance services for irrigation systems?",
+            "answer": "Yes, we offer maintenance services to keep your irrigation system in optimal condition."
+          }
+        ]
+      },
+      {
+        "slug": "seasonal-clean-up",
+        "name": "Seasonal Clean-Up",
+        "shortDescription": "Keep your yard looking its best with our spring and fall clean-up services.",
+        "description": "Our seasonal clean-up service ensures your property looks its best year-round. We offer spring and fall clean-up services that include leaf removal, debris removal, pruning, and mulching. We understand the importance of preparing your lawn and garden for the changing seasons in Nashville. Our spring clean-up service removes winter debris and prepares your lawn for healthy growth. Our fall clean-up service removes fallen leaves and protects your plants from the cold.\n\nWe consider the unique challenges of Nashville's climate when performing seasonal clean-up. The heavy spring thunderstorms can leave behind debris and damage, while the occasional ice storms can break branches and damage plants. We carefully remove debris and prune damaged branches to ensure the health and safety of your landscape. We also offer mulching services to protect your plants from the cold and retain moisture in the soil. Our team is experienced in identifying and addressing any seasonal issues that may affect your landscape.",
+        "process": [
+          "Step 1: Debris Removal to clear leaves, branches, and other debris.",
+          "Step 2: Pruning to remove dead or damaged branches.",
+          "Step 3: Mulching to protect plants and retain moisture.",
+          "Step 4: Lawn Care to prepare the lawn for the upcoming season."
+        ],
+        "benefits": [
+          "Healthy lawn and garden",
+          "Improved curb appeal",
+          "Reduced maintenance",
+          "Protection from seasonal damage"
+        ],
+        "faq": [
+          {
+            "question": "When should I schedule a spring clean-up?",
+            "answer": "We recommend scheduling a spring clean-up in March or April, after the last frost."
+          },
+          {
+            "question": "When should I schedule a fall clean-up?",
+            "answer": "We recommend scheduling a fall clean-up in November or December, after the leaves have fallen."
+          },
+          {
+            "question": "Do you offer leaf removal services only?",
+            "answer": "Yes, we offer leaf removal services as part of our seasonal clean-up package or as a standalone service."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Prevent water damage with our expert drainage solutions for your property.",
+        "description": "Our drainage solutions service protects your property from water damage with effective drainage systems. We design and install custom drainage solutions that address the specific needs of your property. We offer a variety of drainage options, including French drains, surface drains, and sump pumps. We understand the importance of proper drainage in Nashville, where heavy rainfalls are common and can lead to flooding and erosion. The limestone bedrock prevalent in the area can also contribute to drainage issues.\n\nWe consider the topography and soil type when designing our drainage systems. We carefully assess the flow of water on your property and design a system that effectively channels water away from your home and foundation. We also offer maintenance services to keep your drainage system in optimal condition. Our team is experienced in identifying and addressing any drainage issues that may affect your property.",
+        "process": [
+          "Step 1: Drainage Assessment to evaluate the drainage problems.",
+          "Step 2: System Design to create a custom drainage plan.",
+          "Step 3: Installation of the drainage system.",
+          "Step 4: System Testing to ensure proper water flow."
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Protection of your foundation",
+          "Reduced risk of flooding",
+          "Improved property value"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel and a perforated pipe that channels water away from your property."
+          },
+          {
+            "question": "How much does a drainage system cost?",
+            "answer": "The cost depends on the complexity of the drainage problems and the size of your property. We provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "Do you offer maintenance services for drainage systems?",
+            "answer": "Yes, we offer maintenance services to keep your drainage system in optimal condition."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "ABM Landscaping LLC is proud to offer our comprehensive landscaping services to the residents of Franklin, Tennessee. Known for its historic downtown and beautiful antebellum homes, Franklin requires a delicate touch when it comes to landscaping. We understand the importance of preserving the character of these properties while enhancing their curb appeal. Our team provides expert lawn care, garden design, and hardscaping solutions tailored to the unique needs of Franklin's landscape.\n\nWith hot, humid summers in Franklin, proper irrigation and plant selection are crucial. ABM Landscaping LLC specializes in drought-tolerant landscapes that thrive in the Tennessee climate. We offer services such as irrigation system installation and maintenance, as well as expert advice on selecting plants that are well-suited to the local environment. Let us help you create a beautiful and sustainable landscape that enhances the charm of your Franklin home.",
+        "localContext": "Franklin, TN is known for its historic downtown area, antebellum architecture, and hot, humid summers.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "ABM Landscaping LLC provides top-notch landscaping services to the growing community of Murfreesboro, Tennessee. With its numerous affordable family developments, Murfreesboro is a vibrant and bustling city where well-maintained landscaping adds significant value to homes. Whether you need lawn mowing, landscape design, or hardscaping services, our team is dedicated to providing exceptional results.\n\nConsidering Murfreesboro's climate, we offer specialized services such as seasonal flower planting, weed control, and fertilization to keep your lawn and garden looking its best year-round. We understand the importance of creating outdoor spaces where families can relax and enjoy the beautiful Tennessee weather. Let ABM Landscaping LLC transform your Murfreesboro property into a stunning outdoor oasis.",
+        "localContext": "Murfreesboro, TN is a growing city with affordable family developments and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Shelbyville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "ABM Landscaping LLC is dedicated to providing exceptional landscaping services to the discerning residents of Brentwood, Tennessee. Known for its luxury estates and beautifully wooded lots, Brentwood demands a high level of expertise and attention to detail. We specialize in creating and maintaining stunning landscapes that complement the elegance and sophistication of Brentwood homes.\n\nFrom custom landscape design to meticulous lawn care and hardscaping, ABM Landscaping LLC offers a wide range of services tailored to the specific needs of Brentwood properties. We understand the importance of creating outdoor spaces that are both beautiful and functional. With hot, humid summers, proper care and landscape design are essential. Let us help you create the perfect outdoor environment for your Brentwood estate.",
+        "localContext": "Brentwood, TN features luxury estates on wooded lots and a hot, humid summer climate.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "ABM Landscaping LLC is proud to serve the residents of Hendersonville, Tennessee, with our comprehensive landscaping services. With its beautiful lakefront homes on Old Hickory Lake, Hendersonville offers unique landscaping opportunities. We understand the importance of creating outdoor spaces that take full advantage of the stunning lake views and enhance the overall beauty of your property.\n\nOur services include landscape design, lawn care, hardscaping, and irrigation system installation and maintenance. We specialize in creating landscapes that are both beautiful and functional, taking into account the specific needs of Hendersonville's lakefront properties. Given the climate, ABM Landscaping LLC can ensure your yard thrives. Let us help you create the perfect outdoor oasis for your Hendersonville home.",
+        "localContext": "Hendersonville, TN features lakefront homes on Old Hickory Lake and a climate with hot, humid summers.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Madison"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "ABM Landscaping LLC is a premier landscaping company serving the greater Nashville area. From downtown gardens to suburban lawns, we offer a comprehensive range of services to meet the diverse needs of Nashville residents. We understand the unique challenges and opportunities presented by Nashville's urban and suburban landscapes and are committed to providing exceptional results.\n\nOur services include landscape design, lawn care, hardscaping, and irrigation system installation and maintenance. We specialize in creating outdoor spaces that are both beautiful and functional, taking into account the specific needs of each property. With Nashville's growing popularity, enhancing your property’s curb appeal with ABM Landscaping LLC is a surefire way to increase its value.",
+        "localContext": "Nashville, TN is a vibrant city with a diverse landscape, experiencing hot, humid summers.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Hendersonville"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "ABM Landscaping LLC proudly serves the community of Smyrna, Tennessee, offering a wide array of landscaping services tailored to meet the needs of homeowners and businesses alike. As Smyrna continues to grow, maintaining appealing and functional outdoor spaces is more important than ever. We are committed to providing exceptional service and creating beautiful landscapes that enhance the value and enjoyment of your property.\n\nOur services include lawn care, landscape design, hardscaping, and seasonal maintenance. We understand the local climate and soil conditions, allowing us to recommend the best plants and practices for a healthy and vibrant landscape. Let ABM Landscaping LLC transform your Smyrna property into an outdoor oasis that you can be proud of.",
+        "localContext": "Smyrna, TN is a growing community in Middle Tennessee with a climate characterized by hot, humid summers.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "ABM Landscaping LLC is dedicated to providing top-quality landscaping services to the residents and businesses of Gallatin, Tennessee. Known for its beautiful parks and growing community, Gallatin offers a wonderful setting for creating stunning outdoor spaces. We are committed to enhancing the beauty and value of your property with our expert landscaping services.\n\nOur services include landscape design, lawn care, hardscaping, and irrigation system installation and maintenance. We take pride in our attention to detail and our commitment to customer satisfaction. With a climate of hot, humid summers, allow ABM Landscaping LLC to take care of your yard with efficient and effective landscaping services to ensure your yard thrives.",
+        "localContext": "Gallatin, TN is a growing community known for its parks and experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "ABM Landscaping LLC is pleased to offer our professional landscaping services to the residents and businesses of La Vergne, Tennessee. As a rapidly growing city, La Vergne offers a diverse range of properties, and we are equipped to handle all your landscaping needs. From lawn maintenance to complete landscape renovations, we are committed to providing exceptional service and creating beautiful outdoor spaces.\n\nOur services include lawn care, landscape design, hardscaping, and seasonal cleanup. We understand the importance of creating a welcoming and functional outdoor environment, and we work closely with our clients to achieve their vision. ABM Landscaping LLC is ready to create your landscape!",
+        "localContext": "La Vergne, TN is a rapidly growing city in Middle Tennessee that experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "ABM Landscaping completely transformed our backyard! We had a blank slate, and they came up with a beautiful design that perfectly fits our style. The team was professional, communicative, and the project was completed on time and within budget. Highly recommend!",
+        "date": "2024-10-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Lawn Care",
+        "text": "We've been using ABM Landscaping for our lawn care for the past year, and our lawn has never looked better. They are reliable, efficient, and always do a great job. The only reason I didn't give 5 stars is because there was a small communication issue once, but they resolved it quickly.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Hardscaping",
+        "text": "ABM Landscaping built a beautiful patio for us. The quality of the workmanship is outstanding, and the patio has completely transformed our outdoor living space. The team was great to work with, and they paid attention to every detail.",
+        "date": "2024-08-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Outdoor Lighting",
+        "text": "The outdoor lighting installed by ABM Landscaping has made our home look amazing at night. They were able to highlight the architectural features of our home and create a warm and inviting ambiance. The team was professional and knowledgeable, and the installation was seamless.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Irrigation Systems",
+        "text": "ABM Landscaping installed an irrigation system for our lawn and garden. The system is efficient and has helped us conserve water. The installation process was smooth, and the team was very helpful in explaining how to use the system. I wish they'd communicated a bit more proactively during install.",
+        "date": "2024-06-18"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Seasonal Clean-Up",
+        "text": "ABM Landscaping does a fantastic job with our seasonal clean-up. They are thorough, efficient, and always leave our yard looking pristine. It saves us so much time and effort, and is well worth the investment.",
+        "date": "2024-05-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "ABM Landscaping | Nashville, TN",
+        "description": "Nashville landscaping experts. Landscape design, lawn care, hardscaping, & more. Free quotes!"
+      },
+      "about": {
+        "title": "About ABM Landscaping",
+        "description": "Learn about ABM Landscaping's commitment to quality landscaping services in Nashville, TN. Meet our team!"
+      },
+      "services": {
+        "title": "ABM Landscaping Services",
+        "description": "Explore our comprehensive landscaping services: design, lawn care, hardscaping, lighting, irrigation, and more."
+      },
+      "contact": {
+        "title": "Contact ABM Landscaping",
+        "description": "Contact ABM Landscaping for a free quote on your landscaping project in Nashville, TN. Call us today!"
+      },
+      "reviews": {
+        "title": "ABM Landscaping Reviews",
+        "description": "Read reviews from satisfied ABM Landscaping customers in Nashville, TN. See what our clients are saying!"
+      },
+      "service-areas": {
+        "title": "ABM Landscaping Service Areas",
+        "description": "ABM Landscaping provides landscaping services in Nashville, Franklin, Murfreesboro, Brentwood, and Hendersonville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "landscape-design": "/images/service-landscape-design.webp",
+      "lawn-care": "/images/service-lawn-care.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "outdoor-lighting": "/images/service-outdoor-lighting.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "seasonal-clean-up": "/images/service-seasonal-clean-up.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp"
+    },
+    "servicesResponsive": {
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lawn-care": {
+        "src": "/images/service-lawn-care.webp",
+        "srcset": "/images/service-lawn-care-400w.webp 400w, /images/service-lawn-care-800w.webp 800w, /images/service-lawn-care-1200w.webp 1200w, /images/service-lawn-care.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-lighting": {
+        "src": "/images/service-outdoor-lighting.webp",
+        "srcset": "/images/service-outdoor-lighting-400w.webp 400w, /images/service-outdoor-lighting-800w.webp 800w, /images/service-outdoor-lighting-1200w.webp 1200w, /images/service-outdoor-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "seasonal-clean-up": {
+        "src": "/images/service-seasonal-clean-up.webp",
+        "srcset": "/images/service-seasonal-clean-up-400w.webp 400w, /images/service-seasonal-clean-up-800w.webp 800w, /images/service-seasonal-clean-up-1200w.webp 1200w, /images/service-seasonal-clean-up.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
